@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Mentora.Domain.Enums
+{
+    public enum MentorshipStatus
+    {
+       
+        Active = 1,
+        Completed = 2,
+        Cancelled = 3
+    }
+}
